@@ -1,0 +1,7 @@
+1. The sample files are used for VLE calculations particularly for refrigerants applying difference thermodynamic methods. 
+
+2. The codes are not written in the most efficient way and the robustness is not guranteed. Users may need to tune some parameters for better numerical convergence. 
+
+3. All files are recommanded to be put under the default MATLAB search path. 
+
+4. The main function is provided in "VLE_calculation.m". The remaining scripts are thermodynamic routines. Parameter databases are included as well as ".mat" files.
